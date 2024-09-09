@@ -1,2 +1,4 @@
-#2024-09-09-git
-#
+    #2024-09-09-git
+
+    - `git remote add <name> <url>: adds the <url> as the <name> for the remote
+    -sets up the plumbing between local and remote
