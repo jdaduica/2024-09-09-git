@@ -8,6 +8,3 @@
   - `git log --oneline` returns back the history in one line
 
   - if the log runs off your screen, press `q`
-
-
-
