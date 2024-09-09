@@ -4,3 +4,5 @@
 -sets up the plumbing between local and remote
 
 - `git restore --source <hash><FILE>`
+
+  - `git log --oneline` returns back the history in one line
